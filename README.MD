@@ -25,9 +25,6 @@ Each input image has **12 spectral bands** and auxiliary layers. Below is a summ
 | **Water Occurrence Probability** | Derived | Frequency of water presence over time. |
 | **Binary Water Mask** | Derived | 1 = water, 0 = not water, used as training labels. |
 
-📷 Example of dataset channels:  
-![Spectral Channels](Untitled.jpeg)  
-
 ---
 
 ## 🧠 Model  
